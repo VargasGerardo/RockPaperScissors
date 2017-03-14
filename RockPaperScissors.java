@@ -107,4 +107,4 @@ public class RockPaperScissors {
 	}
 }
 
-		
+// Good job, Gerardo, including checking for invalid input.	
